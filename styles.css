@@ -1,0 +1,80 @@
+/* #F08090 */
+body{
+    color: black;
+    text-align: center;
+}
+
+a{
+    font-family: "Montserrat", serif;
+    margin: 10px 20px;
+}
+h1{
+    font-family: 'Leckerli One';
+    font-size: 4rem;
+    line-height: 1.5;
+}
+
+h2{
+    color: #FA7F7F;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 2;
+}
+
+hr{
+    border-style: dotted none none none;
+    border-radius: 0%;
+    width: 3%;
+    border-width: 5px;
+    color: #b1b5b5;
+    margin: 50px auto ;
+  }
+/* Sections */
+.White-Section p{
+    color: #8f8f8f;
+}
+
+.colored-section{
+    background-color:  #F08090;
+    color: white;
+    h2{
+        color: white;
+    }
+}
+
+/* Title Section */
+#title{
+    background-image: url('images/background.jpg');
+    background-size: cover; /* Ensures the image covers the whole page */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center; /* Centers the image */
+    color: white;
+    text-align: left;
+}
+.firstpage{
+    padding-top: 4%;
+    margin-right: 15%;
+    margin-left: 45%;
+}
+.btn{
+    margin-top: 7%;
+    margin-bottom: 15%;
+}
+
+/* About Me Section */
+#About-me{
+    margin: 6% 25%;
+}
+.my-pic{
+    width: 18%;
+}
+
+
+
+
+.chess{
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+  }
