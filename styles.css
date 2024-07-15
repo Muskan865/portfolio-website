@@ -71,10 +71,11 @@ hr{
 }
 
 
-
-
+/* Skills Section */
+.skill{
+    margin: 5% auto 5%;
+}
 .chess{
-    width: 25%;
-    float: right;
-    padding-left: 30px;
+    margin-bottom: 2%;
+    width: 7%;
   }
