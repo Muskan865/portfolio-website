@@ -22,7 +22,7 @@ h2{
     line-height: 2;
 }
 
-hr{
+.hrs{
     border-style: dotted none none none;
     border-radius: 0%;
     width: 3%;
@@ -73,9 +73,25 @@ hr{
 
 /* Skills Section */
 .skill{
-    margin: 5% auto 5%;
+    margin: 5% auto ;
 }
-.chess{
+.seperate{
+    height: 12px;
+    background: white;
+
+}
+.skill-img{
     margin-bottom: 2%;
     width: 7%;
   }
+
+/* Projects Section */
+.project{
+    margin: 5% 10%;
+}
+.custom{
+    border-width: 3px; 
+    border-style: solid; 
+    border-color: #000000; 
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
