@@ -22,6 +22,12 @@ h2{
     line-height: 2;
 }
 
+h3{
+    color: white;
+    font-family: 'Montserrat';
+    margin: auto 25%;
+}
+
 .hrs{
     border-style: dotted none none none;
     border-radius: 0%;
@@ -99,3 +105,25 @@ h2{
     border: 6px solid #ffffff;
     border-radius: 10px;
 }
+
+/* Contact-Me Section */
+.last-para{
+    margin: 3% 25%;
+}
+
+/* footer section */
+footer {
+    text-align: center;
+    padding: 2% 0;
+  }
+  
+  footer .social-icon {
+    font-size: 24px;
+    margin: 0 10px;
+    color: #F08090;
+    transition: color 0.3s;
+  }
+  
+  footer .social-icon:hover {
+    color: #333;
+  }
